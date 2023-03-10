@@ -72,7 +72,7 @@ if (isset($update['message'])) {
 
 // Set up the webhook to receive incoming messages
 if (isset($_GET['set_webhook'])) {
-    $webhook_url = 'https://somchatgtp.rf.gd/index.php';
+    $webhook_url = 'https://dallodevgroup.github.io/hubaalChatGPT.github.io/index.php';
     $data = array(
         'url' => $webhook_url
     );
