@@ -1,5 +1,5 @@
 <?php
-$BOT_TOKEN = "******";
+$BOT_TOKEN = "1967292402:AAH-fAZAs6zIDRCrbXrKXiicOLSthKvIDyg";
 
 $update = file_get_contents('php://input');
 $update = json_decode($update, true);
